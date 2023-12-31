@@ -27,7 +27,9 @@ Assess model performance using metrics such as accuracy, precision, recall, and 
 
 ## How to Use
 Clone the Repository:
+
 bash
+
 git clone https://github.com/your-username/titanic-prediction-xgboost.git
 
 ## Dataset :- https://www.kaggle.com/competitions/titanic
@@ -36,6 +38,4 @@ git clone https://github.com/your-username/titanic-prediction-xgboost.git
 Contributions are welcome! If you have suggestions for improving the EDA, enhancing the prediction model, or addressing issues, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the [Apache License 2.0](LICENSE).
-
 This project is licensed under the [Apache License 2.0](LICENSE).
