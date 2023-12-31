@@ -1,7 +1,3 @@
-# EDA--Titanic
-# Explore my approach to the Titanic Survival Prediction competition on Kaggle. This repository contains data exploration, preprocessing, feature engineering, and machine learning model development. Join me in commemorating the tragedy and predicting passenger survival using data science. Happy coding! 🚢💻
-## Dataset :- https://www.kaggle.com/competitions/titanic
-
 # Titanic Prediction with XGBoost
 ## Overview
 This project focuses on exploring and analyzing the Titanic dataset through Exploratory Data Analysis (EDA) and subsequently building a predictive model using the XGBoost algorithm. The objective is to gain insights into the dataset and create a robust model for predicting survival outcomes on the Titanic.
@@ -33,6 +29,8 @@ Assess model performance using metrics such as accuracy, precision, recall, and 
 Clone the Repository:
 bash
 git clone https://github.com/your-username/titanic-prediction-xgboost.git
+
+## Dataset :- https://www.kaggle.com/competitions/titanic
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improving the EDA, enhancing the prediction model, or addressing issues, feel free to open an issue or submit a pull request.
